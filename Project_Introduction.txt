@@ -1,3 +1,13 @@
 Cartador
 
 Cartador is an idea that will improve grocery shopping experience for people who are looking for best deals. This website will help its customers to view all the available deals in grocery stores around them in one view. All they have to do is search for the item they are looking for and the website will calculate and compare prices of that particular item around them to choose from. After all the desired items are selected customers can proceed for checkout. At checkout they will have an additional option to get the groceries either delivered to their home or pick up from the store. The most important aspect of this website will be its user-friendly interface and the accurate data that it will provide.
+
+Applications Functions
+
+Our application will work in a way that the customer has to put the least amount of effort in finding theirs desired items with the help of applications tools and personalized feed.
+
+The application will compare and present prices from the different stores for the same item.
+The app will also provide the customer with various filter options to choose the price, brands and stores of their liking.
+Once the item is chosen the app will put it in your cart and you can search for your next item.
+One good feature of this app is that it will store your previous grocery shopping records enabling you to see the products that you use more often and you don't need to write down the list of same things again and again.
+Moreover this will also make the feed more customer friendly by showing the products likely to the products already bought by the consumer.
