@@ -1,3 +1,5 @@
+Name: Jasvinder Singh Sandhu, Student id. 100412126
+
 Cartador
 
 Cartador is an idea that will improve grocery shopping experience for people who are looking for best deals. This website will help its customers to view all the available deals in grocery stores around them in one view. All they have to do is search for the item they are looking for and the website will calculate and compare prices of that particular item around them to choose from. After all the desired items are selected customers can proceed for checkout. At checkout they will have an additional option to get the groceries either delivered to their home or pick up from the store. The most important aspect of this website will be its user-friendly interface and the accurate data that it will provide.
